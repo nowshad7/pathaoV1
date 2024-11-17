@@ -1,5 +1,5 @@
 ##  Laravel 11
-BS23 Mini Project
+Pathao Mini Project
 
 # Recommended environment
     # PHP version 8.2
